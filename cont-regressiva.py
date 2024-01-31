@@ -1,8 +1,8 @@
-tempo = float(input("Informe a quantidade do tempo que você quer regressar: "))
-i = 1
+import time
+tempo = int(input("Entre com o valor: "))
+i = 0
 while tempo >= i:
-  print(i)
-  i += 1
-print("tempo acabou")
-
-print(" EU AINDA ESTOU VOLTANDO A CODAR EM PYTHON, ENTÃO DE POUQUINHO A POUQUINHO VOU MELHORANDO ")
+  print(tempo)
+  time.sleep(1)
+  tempo -= 1
+print("O tempo acabou!!!")
