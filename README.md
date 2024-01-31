@@ -4,4 +4,4 @@ Bom, nesse meu projeto estou me acostumando e me aprofundando em Python, peguei 
 
 ##
 
-Muito obrigado por você está vendo meu processo :while:
+Muito obrigado por você está vendo meu processo :whik:
